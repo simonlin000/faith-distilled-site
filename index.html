@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Faith Distilled — 基督教资讯日报</title>
+  <meta name="description" content="一眼看懂今天值得读的基督教资讯：先看重点，再决定读哪篇原文。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="hero-meta" id="hero-meta">04/01 已更新 · 42 条资讯入选</p>
+      <div class="hero-copy">
+        <p class="brand-kicker">FAITH DISTILLED</p>
+        <h1>今天有哪些基督教资讯值得你先看？</h1>
+        <p class="hero-description">
+          这是一个每日资讯首页。你不用先刷一堆链接，只要先看首页推荐，
+          再决定哪些值得点开原文。
+        </p>
+      </div>
+      <p class="hero-lead" id="hero-lead"></p>
+      <div class="hero-status" id="hero-status"></div>
+      <section class="today-new" id="today-new-section" hidden>
+        <div class="section-title-row section-title-row-tight">
+          <h2>今天新增了什么</h2>
+          <p id="today-new-summary">先看今天新进来的条目，再决定要不要深入。</p>
+        </div>
+        <div class="today-new-list" id="today-new-list"></div>
+      </section>
+      <div class="section-title-row">
+        <h2>先看这 3 条</h2>
+        <p>如果你只有 3 分钟，就先从这里开始。</p>
+      </div>
+      <section class="hero-highlights" id="hero-highlights"></section>
+    </header>
+
+    <main class="main-layout">
+      <aside class="sidebar">
+        <section class="sidebar-panel sidebar-panel-intro">
+          <p class="sidebar-label">怎么用</p>
+          <h2 id="sidebar-frame-title">先看首页推荐，再点开你真正关心的文章。</h2>
+          <p id="sidebar-frame-copy">
+            这里已经帮你把资讯分好了类。你可以先看「值得读」了解今天发生了什么，
+            再看「值得学」挑值得细读的内容。
+          </p>
+          <div class="sidebar-chip-row" id="sidebar-frame-chips"></div>
+        </section>
+
+        <section class="sidebar-panel">
+          <p class="sidebar-label">我的关注</p>
+          <div class="pin-summary">
+            <span>已关注主题</span>
+            <strong id="pin-count">0</strong>
+          </div>
+          <button id="edit-focus" class="ghost-button" type="button">编辑关注</button>
+          <div id="pin-list" class="pin-list"></div>
+        </section>
+
+        <section class="sidebar-panel">
+          <p class="sidebar-label">阅读队列</p>
+          <div class="pin-summary">
+            <span>阅读中</span>
+            <strong id="queue-count">0</strong>
+          </div>
+          <div id="saved-list" class="saved-list"></div>
+          <div id="queue-list" class="queue-list"></div>
+        </section>
+      </aside>
+
+      <section class="content-shell">
+        <nav id="board-tabs" class="board-tabs" aria-label="资讯分类"></nav>
+        <section id="content-panels" class="content-panels">
+          <article class="state-card">
+            <p class="about-kicker">LOADING</p>
+            <h2>正在加载今天的资讯。</h2>
+            <p>页面会先读取首页推荐、关注主题和信源列表，然后再完整显示。</p>
+          </article>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <dialog id="focus-dialog" class="focus-dialog">
+    <form method="dialog" class="focus-dialog-card">
+      <div class="focus-dialog-header">
+        <div>
+          <p class="sidebar-label">编辑关注</p>
+          <h3>选择你想长期追踪的话题</h3>
+        </div>
+        <button type="submit" class="ghost-button ghost-button-small">完成</button>
+      </div>
+      <div id="focus-grid" class="focus-grid"></div>
+    </form>
+  </dialog>
+
+  <dialog id="reading-dialog" class="reading-dialog">
+    <div class="reading-dialog-card">
+      <div class="reading-dialog-header">
+        <div>
+          <p class="sidebar-label">站内阅读</p>
+          <h3 id="reading-title">正在加载</h3>
+        </div>
+        <button type="button" id="reading-close" class="ghost-button ghost-button-small">关闭</button>
+      </div>
+      <div class="reading-dialog-meta" id="reading-meta"></div>
+      <p class="reading-dialog-summary" id="reading-summary"></p>
+      <div class="reading-dialog-why" id="reading-why"></div>
+      <div class="reading-dialog-tags" id="reading-tags"></div>
+      <div class="reading-dialog-actions">
+        <button type="button" id="reading-prev" class="ghost-button ghost-button-small">上一篇</button>
+        <button type="button" id="reading-next" class="ghost-button ghost-button-small">下一篇</button>
+        <button type="button" id="reading-save" class="ghost-button ghost-button-small">加入待读</button>
+        <button type="button" id="reading-toggle-read" class="ghost-button ghost-button-small">标记已读</button>
+        <a id="reading-open-original" class="ghost-button ghost-button-small" href="#" target="_blank" rel="noopener">查看原文</a>
+      </div>
+    </div>
+  </dialog>
+
+  <template id="board-card-template">
+    <article class="story-card">
+      <div class="story-card-topline">
+        <span class="story-score"></span>
+        <span class="story-date"></span>
+      </div>
+      <h3 class="story-title"></h3>
+      <p class="story-summary"></p>
+      <p class="story-why"></p>
+      <div class="story-footer">
+        <span class="story-source"></span>
+        <div class="story-tags"></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>

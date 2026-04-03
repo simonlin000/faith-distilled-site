@@ -1,0 +1,224 @@
+{
+  "version": "1.2",
+  "generated_at": "2026-04-03T07:50:46.203787+00:00",
+  "default_pins": [
+    "global-church",
+    "church-tech",
+    "china-church",
+    "theology-public-life"
+  ],
+  "meta": {
+    "window_days": 30,
+    "entity_total": 4,
+    "entity_curated": 4,
+    "entity_with_narrative": 4,
+    "article_total": 89
+  },
+  "entities": [
+    {
+      "id": "global-church",
+      "name": "全球教会",
+      "subtitle": "关注各地教会增长、治理与跨文化协作",
+      "lead": "最近最值得注意的是全球教会不再只是‘被观察对象’，而是在主动生成自己的叙事与差派结构。",
+      "topics": [
+        "全球教会",
+        "宣教",
+        "国际"
+      ],
+      "takeaways": [
+        "最近这条线共出现 6 条高相关内容，主要来自 Christianity Today, The Christian Post, Evangelical Focus。",
+        "本轮最明显的倾向是偏「先观察」，说明它更适合用 当前价值相对边缘，先留在观察区，不占用你的主注意力。 的节奏来跟。",
+        "如果只挑一条先看，就从《Churches Try Drones and Skydiving Bunnies for Easter Outreach》这类代表性内容开始。"
+      ],
+      "actions": [
+        "整理值得长期订阅的国际基督教信源名单。",
+        "把本周全球教会动态做成一期专题摘要。"
+      ],
+      "sources": [
+        {
+          "name": "基督邮报中文",
+          "url": "https://chinese.christianpost.com/"
+        },
+        {
+          "name": "China Christian Daily",
+          "url": "https://chinachristiandaily.com/"
+        },
+        {
+          "name": "世界华人基督教联盟媒体",
+          "url": "https://www.wca.global/ministries/media"
+        },
+        {
+          "name": "Christianity Today",
+          "url": "https://www.christianitytoday.com/"
+        }
+      ],
+      "related_items": [
+        {
+          "title": "Churches Try Drones and Skydiving Bunnies for Easter Outreach",
+          "url": "https://www.christianitytoday.com/2026/04/churches-try-drones-and-skydiving-bunnies-for-easter-outreach/",
+          "source": "Christianity Today",
+          "date": "04-02",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：As Americans open their wallets to spend a projected..."
+        },
+        {
+          "title": "SCOTUS Ruling on ‘Conversion Therapy’ Is a Win for Christians",
+          "url": "https://www.christianitytoday.com/2026/04/scotus-ruling-on-conversion-therapy-is-a-win-for-christians/",
+          "source": "Christianity Today",
+          "date": "04-01",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：The US Supreme Court recently delivered a big victor..."
+        },
+        {
+          "title": "Luke Bryan reflects on how church roots shaped his career during ‘American Idol’ faith night: 'A blessing'",
+          "url": "https://www.christianpost.com/news/luke-bryan-reflects-on-how-church-roots-shaped-career.html",
+          "source": "The Christian Post",
+          "date": "04-02",
+          "summary": "这是一条来自 The Christian Post 的英文资讯，主题偏 热点 / 国际。原文摘要提到：Country star and “American Idol” judge Luke Bryan opened..."
+        }
+      ]
+    },
+    {
+      "id": "church-tech",
+      "name": "教会与技术",
+      "subtitle": "观察 AI、协作工具与牧养边界",
+      "lead": "这条线最重要的不是工具本身，而是哪些流程能辅助，哪些角色绝不能被自动化偷换。",
+      "topics": [
+        "AI",
+        "technology",
+        "digital"
+      ],
+      "takeaways": [
+        "最近这条线共出现 6 条高相关内容，主要来自 Religion News Service, 今日基督教（中文）, Christianity Today。",
+        "本轮最明显的倾向是偏「值得做」，说明它更适合用 更偏方法、工具、清单或实践建议，适合今天就转成行动。 的节奏来跟。",
+        "如果只挑一条先看，就从《Some churches don’t preach a literal resurrection. Here’s how they celebrate Easter.》这类代表性内容开始。"
+      ],
+      "actions": [
+        "做一版‘教会使用 AI 红绿灯清单’。",
+        "只从低风险流程开始试点，比如转录、摘要、FAQ。"
+      ],
+      "sources": [
+        {
+          "name": "China Christian Daily",
+          "url": "https://chinachristiandaily.com/"
+        },
+        {
+          "name": "福音时报",
+          "url": "https://gospeltimes.faithinlove.cn/"
+        }
+      ],
+      "related_items": [
+        {
+          "title": "Some churches don’t preach a literal resurrection. Here’s how they celebrate Easter.",
+          "url": "https://religionnews.com/2026/04/02/when-easter-isnt-all-about-a-literal-resurrection/",
+          "source": "Religion News Service",
+          "date": "04-02",
+          "summary": "这是一条来自 Religion News Service 的英文资讯，主题偏 公共宗教 / 社会议题。原文摘要提到：(RNS) — In some noncreedal faith communities, the..."
+        },
+        {
+          "title": "这个复活节，让我们“失去”盼望吧！",
+          "url": "https://zh.christianitytoday.com/2026/04/this-easter-lets-lose-our-hope-russell-moore-zh-hans/",
+          "source": "今日基督教（中文）",
+          "date": "04-02",
+          "summary": "曾经，我不得不帮助ㄧ个朋友 “失去” 她的信心——就某种意义而言。 当时的她正努力从成功神学的背景走出来；在那样的环境里，人们常用 “要有信心” 之类的劝告，操控她为事工奉献更多钱。他们告诉她，她的贫穷与病痛，全都..."
+        },
+        {
+          "title": "SCOTUS Ruling on ‘Conversion Therapy’ Is a Win for Christians",
+          "url": "https://www.christianitytoday.com/2026/04/scotus-ruling-on-conversion-therapy-is-a-win-for-christians/",
+          "source": "Christianity Today",
+          "date": "04-01",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：The US Supreme Court recently delivered a big victor..."
+        }
+      ]
+    },
+    {
+      "id": "china-church",
+      "name": "华语教会",
+      "subtitle": "跟踪华语语境里的教会内容、代际与公共表达",
+      "lead": "华语教会最明显的变化不是议题本身，而是表达方式、组织方式和沟通节奏都在变。",
+      "topics": [
+        "中国",
+        "华语",
+        "Taiwan"
+      ],
+      "takeaways": [
+        "最近这条线共出现 6 条高相关内容，主要来自 今日基督教（中文）, 《世代》 Kosmos China, 基督教论坛报。",
+        "本轮最明显的倾向是偏「先观察」，说明它更适合用 当前价值相对边缘，先留在观察区，不占用你的主注意力。 的节奏来跟。",
+        "如果只挑一条先看，就从《你不需要 “属灵解码” 每一个苦难》这类代表性内容开始。"
+      ],
+      "actions": [
+        "把主日讲章拆成文章、短视频、群公告三个版本。",
+        "给同工团队建立一周一次的内容协作节奏。"
+      ],
+      "sources": [
+        {
+          "name": "中国基督教网",
+          "url": "https://ccctspm.org/"
+        },
+        {
+          "name": "基督邮报中文",
+          "url": "https://chinese.christianpost.com/"
+        },
+        {
+          "name": "今日基督教（中文）",
+          "url": "https://zh.christianitytoday.com/"
+        },
+        {
+          "name": "China Christian Daily",
+          "url": "https://chinachristiandaily.com/"
+        }
+      ],
+      "related_items": [
+        {
+          "title": "你不需要 “属灵解码” 每一个苦难",
+          "url": "https://zh.christianitytoday.com/2026/03/you-dont-need-a-decoder-ring-each-time-you-suffer-zh-hans/",
+          "source": "今日基督教（中文）",
+          "date": "03-24",
+          "summary": "本文由两位神学教授 (Kelly及Jason) 及一位心理学教授 (Liz) 合著。 “我知道上帝一定正在教我一些事情，只是我搞不清楚到底是什么，” 妮可跟我说。她刚经历了一场惨痛的情感挫败，既受伤又愤怒——对那位..."
+        },
+        {
+          "title": "这个复活节，让我们“失去”盼望吧！",
+          "url": "https://zh.christianitytoday.com/2026/04/this-easter-lets-lose-our-hope-russell-moore-zh-hans/",
+          "source": "今日基督教（中文）",
+          "date": "04-02",
+          "summary": "曾经，我不得不帮助ㄧ个朋友 “失去” 她的信心——就某种意义而言。 当时的她正努力从成功神学的背景走出来；在那样的环境里，人们常用 “要有信心” 之类的劝告，操控她为事工奉献更多钱。他们告诉她，她的贫穷与病痛，全都..."
+        },
+        {
+          "title": "羞耻、恩典与灵命塑造：华人文化处境下的灵修神学研究/底波拉",
+          "url": "https://www.kosmoschina.org/%e7%be%9e%e8%80%bb%e3%80%81%e6%81%a9%e5%85%b8%e4%b8%8e%e7%81%b5%e5%91%bd%e5%a1%91%e9%80%a0%ef%bc%9a%e5%8d%8e%e4%ba%ba%e6%96%87%e5%8c%96%e5%a4%84%e5%a2%83%e4%b8%8b%e7%9a%84%e7%81%b5%e4%bf%ae%e7%a5%9e/",
+          "source": "《世代》 Kosmos China",
+          "date": "02-04",
+          "summary": "内容摘要：本文从华人文化语境出发，探讨羞耻文化对灵命塑造的深层影响 。研究指出，儒家修身传统与集体主义的面子文 […]"
+        }
+      ]
+    },
+    {
+      "id": "theology-public-life",
+      "name": "神学与公共生活",
+      "subtitle": "信仰如何进入教育、文化、家庭与社会讨论",
+      "lead": "这里真正值得盯的不是立场对撞，而是如何把神学语言翻译成公共语境中的成熟表达。",
+      "topics": [
+        "culture",
+        "public",
+        "教育"
+      ],
+      "takeaways": [
+        "最近这条线共出现 1 条高相关内容，主要来自 Evangelical Focus。",
+        "本轮最明显的倾向是偏「值得做」，说明它更适合用 更偏方法、工具、清单或实践建议，适合今天就转成行动。 的节奏来跟。",
+        "如果只挑一条先看，就从《‘The Chosen’ premieres in Galician this Maundy Thursday on Galicia’s public TV broadcaster》这类代表性内容开始。"
+      ],
+      "actions": [
+        "用本周热点做一篇‘信仰如何参与公共讨论’示范稿。",
+        "建立教会内部的议题回应模板。"
+      ],
+      "sources": [],
+      "related_items": [
+        {
+          "title": "‘The Chosen’ premieres in Galician this Maundy Thursday on Galicia’s public TV broadcaster",
+          "url": "https://evangelicalfocus.com/cities/34310/the-chosen-premieres-in-galician-this-maundy-thursday-on-galicias-public-tv-broadcaster",
+          "source": "Evangelical Focus",
+          "date": "04-03",
+          "summary": "这是一条来自 Evangelical Focus 的英文资讯，主题偏 欧洲 / 福音派。原文摘要提到：Entitled ‘Os elixidos’, the series will be broadcast in..."
+        }
+      ]
+    }
+  ]
+}
