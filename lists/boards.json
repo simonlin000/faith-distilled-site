@@ -1,0 +1,624 @@
+{
+  "date": "2026-04-20",
+  "display_date": "04/20",
+  "window_days": 7,
+  "hero": {
+    "included_items": 32,
+    "source_count": 17,
+    "article_total": 92,
+    "topic_count": 4,
+    "lead_summary": "今天这轮构建跑通了 17 个稳定来源，真正进入主看板的内容有 32 条。 你可以先抓住一条长期判断，再决定哪些新闻值得深入。",
+    "highlights": [
+      {
+        "title": "Global Church leaders urge renewed focus on cities as key to spreading the Gospel",
+        "url": "https://www.christiantoday.com/news/global-church-leaders-urge-renewed-focus-on-cities-as-key-to-spreading-the-gospel",
+        "source": "Christian Today",
+        "date": "04-20",
+        "board": "值得做",
+        "summary": "这是一条来自 Christian Today 的英文资讯，主题偏 国际新闻 / 快讯。原文摘要提到：The Lausanne Movement is urging Christians around the wor..."
+      },
+      {
+        "title": "Indian court stays proceedings against priest who preached that Jesus is the only Way",
+        "url": "https://www.christianpost.com/news/court-stays-proceedings-against-priest-who-preached-the-gospel.html",
+        "source": "The Christian Post",
+        "date": "04-20",
+        "board": "值得做",
+        "summary": "这是一条来自 The Christian Post 的英文资讯，主题偏 热点 / 国际。原文摘要提到：India’s Supreme Court has stayed all criminal proceeding..."
+      },
+      {
+        "title": "‘Hope for the world was born in the Middle East’: Sharing the gospel with the Arab world",
+        "url": "https://evangelicalfocus.com/radio-media-missions/34435/hope-for-the-world-was-born-in-the-middle-east-sharing-the-gospel-with-the-arab-world",
+        "source": "Evangelical Focus",
+        "date": "04-20",
+        "board": "值得做",
+        "summary": "这是一条来自 Evangelical Focus 的英文资讯，主题偏 欧洲 / 福音派。原文摘要提到：TWR’s mission in the Middle East and the faith of its le..."
+      }
+    ]
+  },
+  "tab_order": [
+    {
+      "id": "watch",
+      "label": "关注中"
+    },
+    {
+      "id": "learn",
+      "label": "值得学"
+    },
+    {
+      "id": "read",
+      "label": "值得读"
+    },
+    {
+      "id": "do",
+      "label": "值得做"
+    },
+    {
+      "id": "skip",
+      "label": "先观察"
+    },
+    {
+      "id": "sources",
+      "label": "信源"
+    },
+    {
+      "id": "about",
+      "label": "关于"
+    }
+  ],
+  "watch": {
+    "title": "把长期主题变成你自己的首页。",
+    "description": "这里不是简单收藏夹，而是围绕主题先给你一句编辑判断，再给证据文章和下一步建议。",
+    "toolbar_text": "你选中的主题会像专题首页一样，先给判断，再给线索，再给行动建议。"
+  },
+  "boards": {
+    "learn": {
+      "title": "适合沉淀长期认知的内容。",
+      "description": "通常是神学、教会论、文化辨析和长期趋势，读完不会立刻行动，但会改变你接下来怎么理解事情。",
+      "items": [
+        {
+          "score": 68,
+          "date": "04-16",
+          "title": "Opera struggles to hit a high note",
+          "summary": "这是一条来自 WORLD 的英文资讯，主题偏 公共议题 / 评论。原文摘要提到：TRENDING | Companies look for ways to attract new audiences",
+          "source": "WORLD",
+          "url": "https://wng.org/articles/opera-struggles-to-hit-a-high-note-1775877775",
+          "tags": [
+            "公共议题",
+            "评论",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得学」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-16",
+          "title": "Revolutionary reporting",
+          "summary": "这是一条来自 WORLD 的英文资讯，主题偏 公共议题 / 评论。原文摘要提到：Today’s digital news startups traded printing presses for smartphon...",
+          "source": "WORLD",
+          "url": "https://wng.org/articles/revolutionary-reporting-1775872327",
+          "tags": [
+            "公共议题",
+            "评论",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得学」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-16",
+          "title": "Pulitzer material",
+          "summary": "这是一条来自 WORLD 的英文资讯，主题偏 公共议题 / 评论。原文摘要提到：On telling hard stories and watching someone else get the reward",
+          "source": "WORLD",
+          "url": "https://wng.org/articles/pulitzer-material-1775235321",
+          "tags": [
+            "公共议题",
+            "评论",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得学」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-16",
+          "title": "Spring chickens",
+          "summary": "这是一条来自 WORLD 的英文资讯，主题偏 公共议题 / 评论。原文摘要提到：LIFESTYLE | Birding is attracting a new, younger flock of enthusiasts",
+          "source": "WORLD",
+          "url": "https://wng.org/articles/spring-chickens-1775182943",
+          "tags": [
+            "公共议题",
+            "评论",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得学」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-16",
+          "title": "Deadly diagnosis",
+          "summary": "这是一条来自 WORLD 的英文资讯，主题偏 公共议题 / 评论。原文摘要提到：BY THE NUMBERS | Earlier testing and lifestyle changes probed as wa...",
+          "source": "WORLD",
+          "url": "https://wng.org/articles/deadly-diagnosis-1776134043",
+          "tags": [
+            "公共议题",
+            "评论",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得学」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 76,
+          "date": "03-02",
+          "title": "《世代》2025年夏季号（总第27期）pdf下载",
+          "summary": "这是一条来自 《世代》 Kosmos China 的中文资讯，主题偏 公共神学 / 城市文化，建议打开原文细读。",
+          "source": "《世代》 Kosmos China",
+          "url": "https://www.kosmoschina.org/%e3%80%8a%e4%b8%96%e4%bb%a3%e3%80%8b2025%e5%b9%b4%e5%a4%8f%e5%ad%a3%e5%8f%b7%ef%bc%88%e6%80%bb%e7%ac%ac27%e6%9c%9f%ef%bc%89pdf%e4%b8%8b%e8%bd%bd/",
+          "tags": [
+            "公共神学",
+            "城市文化",
+            "代际",
+            "中文"
+          ],
+          "language": "zh",
+          "why": "因为这条内容更符合「值得学」的判断：更偏神学、形成性内容或长期认知建设，适合静下心细读。"
+        },
+        {
+          "score": 76,
+          "date": "03-02",
+          "title": "《世代》第27期卷首语/孙毅 丁祖潘",
+          "summary": "今天我们正处在一个迅速变化的时代，除了地缘格局的迅速变化，还有社交媒体的广泛流行，以及近年来人工智能的快速发展 […]",
+          "source": "《世代》 Kosmos China",
+          "url": "https://www.kosmoschina.org/%e3%80%8a%e4%b8%96%e4%bb%a3%e3%80%8b%e7%ac%ac27%e6%9c%9f%e5%8d%b7%e9%a6%96%e8%af%ad-%e5%ad%99%e6%af%85-%e4%b8%81%e7%a5%96%e6%bd%98/",
+          "tags": [
+            "公共神学",
+            "城市文化",
+            "代际",
+            "中文"
+          ],
+          "language": "zh",
+          "why": "因为这条内容更符合「值得学」的判断：更偏神学、形成性内容或长期认知建设，适合静下心细读。"
+        },
+        {
+          "score": 76,
+          "date": "02-04",
+          "title": "羞耻、恩典与灵命塑造：华人文化处境下的灵修神学研究/底波拉",
+          "summary": "内容摘要：本文从华人文化语境出发，探讨羞耻文化对灵命塑造的深层影响 。研究指出，儒家修身传统与集体主义的面子文 […]",
+          "source": "《世代》 Kosmos China",
+          "url": "https://www.kosmoschina.org/%e7%be%9e%e8%80%bb%e3%80%81%e6%81%a9%e5%85%b8%e4%b8%8e%e7%81%b5%e5%91%bd%e5%a1%91%e9%80%a0%ef%bc%9a%e5%8d%8e%e4%ba%ba%e6%96%87%e5%8c%96%e5%a4%84%e5%a2%83%e4%b8%8b%e7%9a%84%e7%81%b5%e4%bf%ae%e7%a5%9e/",
+          "tags": [
+            "公共神学",
+            "城市文化",
+            "代际",
+            "中文"
+          ],
+          "language": "zh",
+          "why": "因为这条内容更符合「值得学」的判断：更偏神学、形成性内容或长期认知建设，适合静下心细读。"
+        }
+      ],
+      "editor_note": "今天这栏更偏长期认知建设，主要信号来自 WORLD，适合选一两篇真正沉下去读。"
+    },
+    "read": {
+      "title": "今天该看的优质信息源。",
+      "description": "更偏观察、采访、报道与案例，帮助你知道教会、宣教、教育与公共议题领域今天发生了什么。",
+      "items": [
+        {
+          "score": 68,
+          "date": "04-20",
+          "title": "As antisemitism soars, Christians must take action",
+          "summary": "这是一条来自 CNE.news 的英文资讯，主题偏 欧洲 / 新闻。原文摘要提到：来自 CNE.news 首页文章列表，后续可再补单篇正文抓取。",
+          "source": "CNE.news",
+          "url": "https://cne.news/article/4963-as-antisemitism-soars-christians-must-take-action",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得读」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-20",
+          "title": "Päivi Räsänen speaks out after Supreme Court verdict",
+          "summary": "这是一条来自 CNE.news 的英文资讯，主题偏 欧洲 / 新闻。原文摘要提到：来自 CNE.news 首页文章列表，后续可再补单篇正文抓取。",
+          "source": "CNE.news",
+          "url": "https://cne.news/article/4962-paivi-rasanen-speaks-out-after-supreme-court-verdict",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得读」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-20",
+          "title": "Finland's Supreme Court delivers verdict in Päivi Räsänen case",
+          "summary": "这是一条来自 CNE.news 的英文资讯，主题偏 欧洲 / 新闻。原文摘要提到：来自 CNE.news 首页文章列表，后续可再补单篇正文抓取。",
+          "source": "CNE.news",
+          "url": "https://cne.news/article/4961-finland-s-supreme-court-delivers-verdict-in-paivi-rasanen-case",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得读」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-20",
+          "title": "The rise of Christianophobia, and what we can do about it",
+          "summary": "这是一条来自 CNE.news 的英文资讯，主题偏 欧洲 / 新闻。原文摘要提到：来自 CNE.news 首页文章列表，后续可再补单篇正文抓取。",
+          "source": "CNE.news",
+          "url": "https://cne.news/article/4960-the-rise-of-christianophobia-and-what-we-can-do-about-it",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得读」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-20",
+          "title": "What Swedish media won't tell you about abortion",
+          "summary": "这是一条来自 CNE.news 的英文资讯，主题偏 欧洲 / 新闻。原文摘要提到：来自 CNE.news 首页文章列表，后续可再补单篇正文抓取。",
+          "source": "CNE.news",
+          "url": "https://cne.news/article/4959-what-swedish-media-won-t-tell-you-about-abortion",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得读」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-20",
+          "title": "What you should know about the EU",
+          "summary": "这是一条来自 CNE.news 的英文资讯，主题偏 欧洲 / 新闻。原文摘要提到：来自 CNE.news 首页文章列表，后续可再补单篇正文抓取。",
+          "source": "CNE.news",
+          "url": "https://cne.news/article/4957-what-you-should-know-about-the-eu",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得读」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-20",
+          "title": "Why free speech matters",
+          "summary": "这是一条来自 CNE.news 的英文资讯，主题偏 欧洲 / 新闻。原文摘要提到：来自 CNE.news 首页文章列表，后续可再补单篇正文抓取。",
+          "source": "CNE.news",
+          "url": "https://cne.news/article/4956-why-free-speech-matters",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得读」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 68,
+          "date": "04-20",
+          "title": "A new year, a new chapter for CNE",
+          "summary": "这是一条来自 CNE.news 的英文资讯，主题偏 欧洲 / 新闻。原文摘要提到：来自 CNE.news 首页文章列表，后续可再补单篇正文抓取。",
+          "source": "CNE.news",
+          "url": "https://cne.news/article/4958-a-new-year-a-new-chapter-for-cne",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得读」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        }
+      ],
+      "editor_note": "今天这栏更偏新闻与动态更新，主要来自 CNE.news，适合先掌握发生了什么、再决定要不要深挖。"
+    },
+    "do": {
+      "title": "今天就可以转成动作的线索。",
+      "description": "适合内容创作者、牧者、同工立刻拿去试：做选题、办活动、更新课程、优化教会沟通或启动工具实验。",
+      "items": [
+        {
+          "score": 75,
+          "date": "04-20",
+          "title": "Global Church leaders urge renewed focus on cities as key to spreading the Gospel",
+          "summary": "这是一条来自 Christian Today 的英文资讯，主题偏 国际新闻 / 快讯。原文摘要提到：The Lausanne Movement is urging Christians around the wor...",
+          "source": "Christian Today",
+          "url": "https://www.christiantoday.com/news/global-church-leaders-urge-renewed-focus-on-cities-as-key-to-spreading-the-gospel",
+          "tags": [
+            "国际新闻",
+            "快讯",
+            "福音派",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得做」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 71,
+          "date": "04-20",
+          "title": "Indian court stays proceedings against priest who preached that Jesus is the only Way",
+          "summary": "这是一条来自 The Christian Post 的英文资讯，主题偏 热点 / 国际。原文摘要提到：India’s Supreme Court has stayed all criminal proceeding...",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/court-stays-proceedings-against-priest-who-preached-the-gospel.html",
+          "tags": [
+            "热点",
+            "国际",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得做」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 71,
+          "date": "04-20",
+          "title": "‘Hope for the world was born in the Middle East’: Sharing the gospel with the Arab world",
+          "summary": "这是一条来自 Evangelical Focus 的英文资讯，主题偏 欧洲 / 福音派。原文摘要提到：TWR’s mission in the Middle East and the faith of its le...",
+          "source": "Evangelical Focus",
+          "url": "https://evangelicalfocus.com/radio-media-missions/34435/hope-for-the-world-was-born-in-the-middle-east-sharing-the-gospel-with-the-arab-world",
+          "tags": [
+            "欧洲",
+            "福音派",
+            "国际",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得做」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 70,
+          "date": "04-20",
+          "title": "Does Canada have a hate problem?",
+          "summary": "这是一条来自 Evangelical Focus 的英文资讯，主题偏 欧洲 / 福音派。原文摘要提到：Canada has made international news recently for two piec...",
+          "source": "Evangelical Focus",
+          "url": "https://evangelicalfocus.com/global-persectives/34459/does-canada-have-a-hate-problem",
+          "tags": [
+            "欧洲",
+            "福音派",
+            "国际",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得做」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 67,
+          "date": "04-20",
+          "title": "Concern over lack of funding for 'urgent' repairs ...",
+          "summary": "这是一条来自 Premier Christian News 的英文资讯，主题偏 英国 / 公共议题。原文摘要提到：来自 Premier Christian News 首页头条列表，适合补足英国与公共议题线索。",
+          "source": "Premier Christian News",
+          "url": "https://premierchristian.news/en/news/article/concern-over-lack-of-funding-for-urgent-repairs-to-lincoln-cathedral",
+          "tags": [
+            "英国",
+            "公共议题",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得做」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 67,
+          "date": "04-20",
+          "title": "'I saw the cross and broke down': Artemis astronaut asks chaplain to help process 'otherworldly' experience",
+          "summary": "这是一条来自 Premier Christian News 的英文资讯，主题偏 英国 / 公共议题。原文摘要提到：来自 Premier Christian News 首页头条列表，适合补足英国与公共议题线索。",
+          "source": "Premier Christian News",
+          "url": "https://premierchristian.news/en/news/article/artemis-astronaut-asks-chaplain-to-help-process-otherworldly-experience",
+          "tags": [
+            "英国",
+            "公共议题",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得做」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 67,
+          "date": "04-20",
+          "title": "Trump posts AI image of himself as Jesus healing the sick",
+          "summary": "这是一条来自 Premier Christian News 的英文资讯，主题偏 英国 / 公共议题。原文摘要提到：来自 Premier Christian News 首页头条列表，适合补足英国与公共议题线索。",
+          "source": "Premier Christian News",
+          "url": "https://premierchristian.news/en/news/article/trump-posts-ai-image-of-himself-as-jesus-healing-the-sick",
+          "tags": [
+            "英国",
+            "公共议题",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得做」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 67,
+          "date": "04-20",
+          "title": "Mamdani’s revolution runs into hard reality",
+          "summary": "这是一条来自 The Christian Post 的英文资讯，主题偏 热点 / 国际。原文摘要提到：However things shape out in the coming years, the city w...",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/voices/zohran-mamdani-nyc-budget-deficit-socialism-subway-crime.html",
+          "tags": [
+            "热点",
+            "国际",
+            "新闻",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「值得做」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        }
+      ],
+      "editor_note": "今天这栏更偏方法和行动建议，主要来自 Christian Today, The Christian Post, Evangelical Focus，适合直接转成团队动作或内容选题。"
+    },
+    "skip": {
+      "title": "热闹，但未必值得立刻投入。",
+      "description": "这些通常热度不低，但要么证据不足，要么可操作性弱。先记住，不急着跟进。",
+      "items": [
+        {
+          "score": 64,
+          "date": "04-20",
+          "title": "Easter sets record number of Bible app users",
+          "summary": "这是一条来自 Evangelical Focus 的英文资讯，主题偏 欧洲 / 福音派。原文摘要提到：来自 Evangelical Focus 首页精选列表。",
+          "source": "Evangelical Focus",
+          "url": "https://evangelicalfocus.com/life-tech/34452/easter-sets-record-number-of-bible-app-users",
+          "tags": [
+            "欧洲",
+            "福音派",
+            "国际",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「先观察」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 75,
+          "date": "04-17",
+          "title": "A Map Through Natural Theology",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：This piece was adapted from CT’s books newsletter. S...",
+          "source": "Christianity Today",
+          "url": "https://www.christianitytoday.com/2026/04/theology-books-wilson/",
+          "tags": [
+            "全球教会",
+            "深度报道",
+            "趋势观察",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「先观察」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 75,
+          "date": "04-17",
+          "title": "Artemis II Showed Us What Integrity Looks Like",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：On April 10 at 5:07 p.m. Pacific Daylight Time, Inte...",
+          "source": "Christianity Today",
+          "url": "https://www.christianitytoday.com/2026/04/artemis-ii-showed-us-what-integrity-looks-like/",
+          "tags": [
+            "全球教会",
+            "深度报道",
+            "趋势观察",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「先观察」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 72,
+          "date": "04-17",
+          "title": "Black Immigrants Are Diversifying the American Church",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：This is the fourth in a series. Here are the first,...",
+          "source": "Christianity Today",
+          "url": "https://www.christianitytoday.com/2026/04/black-immigrants-diversifying-the-american-church-evangelicalism/",
+          "tags": [
+            "全球教会",
+            "深度报道",
+            "趋势观察",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「先观察」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 71,
+          "date": "04-17",
+          "title": "An Unsung Iran Peace Initiative Grapples with Failure",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：Early in the morning on February 28, Ed Martin awoke...",
+          "source": "Christianity Today",
+          "url": "https://www.christianitytoday.com/2026/04/mennonite-iran-peace-initiative-war-interfaith/",
+          "tags": [
+            "全球教会",
+            "深度报道",
+            "趋势观察",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「先观察」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 65,
+          "date": "04-17",
+          "title": "The 5 Love Languages of Volunteers (and How to Use Them!)",
+          "summary": "这是一条来自 ChurchLeaders 的英文资讯，主题偏 牧会实践 / 内容。原文摘要提到：Become fluent in the five love languages of volunteers so t...",
+          "source": "ChurchLeaders",
+          "url": "https://churchleaders.com/children/childrens-ministry-articles/2216372-5-love-languages-of-volunteers.html",
+          "tags": [
+            "牧会实践",
+            "内容",
+            "领导力",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「先观察」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 62,
+          "date": "04-17",
+          "title": "Elementary Sunday School Lesson: Celebrating Father’s Day",
+          "summary": "这是一条来自 ChurchLeaders 的英文资讯，主题偏 牧会实践 / 内容。原文摘要提到：Use this great Father’s Day Sunday school lesson with eleme...",
+          "source": "ChurchLeaders",
+          "url": "https://churchleaders.com/children/childrens-ministry-articles/2216379-elementary-sunday-school-lesson-fathers-day.html",
+          "tags": [
+            "牧会实践",
+            "内容",
+            "领导力",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「先观察」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        },
+        {
+          "score": 72,
+          "date": "04-16",
+          "title": "Church-Crisis Content Didn’t Help Me",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：The year after my church dissolved, I listened to SZ...",
+          "source": "Christianity Today",
+          "url": "https://www.christianitytoday.com/2026/04/church-crisis-content-didnt-help-me-exvangelical-books/",
+          "tags": [
+            "全球教会",
+            "深度报道",
+            "趋势观察",
+            "英文"
+          ],
+          "language": "en",
+          "why": "之所以放进「先观察」，是因为它更适合先把重点抓住，再回到英文原文细读。"
+        }
+      ],
+      "editor_note": "今天这栏是观察区，来源以 Evangelical Focus, Christianity Today 为主，先留痕，不急着投入主注意力。"
+    }
+  },
+  "run_summary": {
+    "generated_at": "2026-04-20T06:25:38.181333+00:00",
+    "successful_sources": 17,
+    "failed_sources": 1,
+    "timed_out_sources": 0,
+    "stable_ok": 17,
+    "experimental_ok": 0,
+    "manual_total": 7
+  }
+}

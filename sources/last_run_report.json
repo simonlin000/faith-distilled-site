@@ -1,0 +1,220 @@
+{
+  "generated_at": "2026-04-20T06:25:38.181333+00:00",
+  "entries_collected": 92,
+  "sources_total": 25,
+  "sources_harvest_enabled": 18,
+  "summary": {
+    "generated_at": "2026-04-20T06:25:38.181333+00:00",
+    "entries_collected": 92,
+    "successful_sources": 17,
+    "failed_sources": 1,
+    "timed_out_sources": 0,
+    "counts_by_status": {
+      "feed_failed": 1,
+      "ok": 17
+    },
+    "counts_by_tier": {
+      "manual": 7,
+      "stable": 18
+    },
+    "stable_ok": 17,
+    "experimental_ok": 0,
+    "manual_total": 7
+  },
+  "report": [
+    {
+      "source_id": "religion_news_service",
+      "source": "Religion News Service",
+      "tier": "stable",
+      "language": "en",
+      "status": "feed_failed",
+      "detail": "ParseError('not well-formed (invalid token): line 1, column 766')",
+      "candidates_tried": [
+        "https://religionnews.com/feed/",
+        "http://religionnews.com/feed/"
+      ]
+    },
+    {
+      "source_id": "kosmos_china",
+      "source": "《世代》 Kosmos China",
+      "tier": "stable",
+      "language": "zh",
+      "status": "ok",
+      "feed": "https://www.kosmoschina.org/feed",
+      "tls_mode": "insecure",
+      "items": 5
+    },
+    {
+      "source_id": "aleteia",
+      "source": "Aleteia",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "feed": "https://aleteia.org/feed/",
+      "tls_mode": "insecure",
+      "items": 5
+    },
+    {
+      "source_id": "christianity_today_zh",
+      "source": "今日基督教（中文）",
+      "tier": "stable",
+      "language": "zh",
+      "status": "ok",
+      "feed": "https://zh.christianitytoday.com/feed/",
+      "tls_mode": "secure",
+      "items": 5
+    },
+    {
+      "source_id": "christianity_today",
+      "source": "Christianity Today",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "feed": "https://www.christianitytoday.com/feed/",
+      "tls_mode": "secure",
+      "items": 5
+    },
+    {
+      "source_id": "churchleaders",
+      "source": "ChurchLeaders",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "feed": "https://churchleaders.com/feed",
+      "tls_mode": "secure",
+      "items": 5
+    },
+    {
+      "source_id": "cne_news",
+      "source": "CNE.news",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "mode": "list_page",
+      "parser": "cne_home",
+      "page": "https://cne.news/",
+      "tls_mode": "secure",
+      "items": 8
+    },
+    {
+      "source_id": "relevant",
+      "source": "RELEVANT",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "feed": "https://relevantmagazine.com/feed/",
+      "tls_mode": "insecure",
+      "items": 5
+    },
+    {
+      "source_id": "ct_tw",
+      "source": "基督教论坛报",
+      "tier": "stable",
+      "language": "zh",
+      "status": "ok",
+      "mode": "list_page",
+      "parser": "ct_forum_news",
+      "page": "https://ct.org.tw/html/news/?ID=avir.txt",
+      "tls_mode": "insecure",
+      "items": 8
+    },
+    {
+      "source_id": "christian_times_hk",
+      "source": "时代论坛",
+      "tier": "stable",
+      "language": "zh",
+      "status": "ok",
+      "mode": "list_page",
+      "parser": "christian_times_issue",
+      "page": "https://www.christiantimes.org.hk/Common/Reader/Version/Show.jsp?Charset=big5_hkscs&Pid=2&Version=2013",
+      "tls_mode": "insecure",
+      "items": 8
+    },
+    {
+      "source_id": "mission_network_news",
+      "source": "Mission Network News",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "feed": "https://www.missionnetworknews.org/feed/",
+      "tls_mode": "secure",
+      "items": 5
+    },
+    {
+      "source_id": "ecumenical_news",
+      "source": "Ecumenical News",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "feed": "https://www.ecumenicalnews.com/rss/feed",
+      "tls_mode": "secure",
+      "items": 5
+    },
+    {
+      "source_id": "baptist_press",
+      "source": "Baptist Press",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "mode": "list_page",
+      "parser": "baptist_press_home",
+      "page": "https://www.baptistpress.com/",
+      "tls_mode": "insecure",
+      "items": 5
+    },
+    {
+      "source_id": "premier_news",
+      "source": "Premier Christian News",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "mode": "list_page",
+      "parser": "premier_home",
+      "page": "https://premierchristian.news/",
+      "tls_mode": "secure",
+      "items": 8
+    },
+    {
+      "source_id": "christian_post",
+      "source": "The Christian Post",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "feed": "https://www.christianpost.com/rss",
+      "tls_mode": "secure",
+      "items": 5
+    },
+    {
+      "source_id": "christian_today",
+      "source": "Christian Today",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "feed": "https://www.christiantoday.com/rss.xml",
+      "tls_mode": "secure",
+      "items": 5
+    },
+    {
+      "source_id": "evangelical_focus",
+      "source": "Evangelical Focus",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "mode": "list_page",
+      "parser": "evangelical_focus_home",
+      "page": "https://evangelicalfocus.com/",
+      "tls_mode": "secure",
+      "items": 8
+    },
+    {
+      "source_id": "wng",
+      "source": "WORLD",
+      "tier": "stable",
+      "language": "en",
+      "status": "ok",
+      "mode": "graphql",
+      "graphql_mode": "wng_articles",
+      "items": 8
+    }
+  ]
+}
