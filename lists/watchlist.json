@@ -1,0 +1,238 @@
+{
+  "version": "1.2",
+  "generated_at": "2026-04-27T11:31:07.998479+00:00",
+  "default_pins": [
+    "global-church",
+    "church-tech",
+    "china-church",
+    "theology-public-life"
+  ],
+  "meta": {
+    "window_days": 30,
+    "entity_total": 4,
+    "entity_curated": 4,
+    "entity_with_narrative": 4,
+    "article_total": 89
+  },
+  "entities": [
+    {
+      "id": "global-church",
+      "name": "全球教会",
+      "subtitle": "关注各地教会增长、治理与跨文化协作",
+      "lead": "最近最值得注意的是全球教会不再只是‘被观察对象’，而是在主动生成自己的叙事与差派结构。",
+      "topics": [
+        "全球教会",
+        "宣教",
+        "国际"
+      ],
+      "takeaways": [
+        "最近这条线共出现 6 条高相关内容，主要来自 Mission Network News, Christianity Today, Evangelical Focus。",
+        "本轮最明显的倾向是偏「值得读」，说明它更适合用 更偏新闻、国际动态或事件更新，适合先掌握事实与趋势。 的节奏来跟。",
+        "如果只挑一条先看，就从《Art Programs in Lebanon Bring Beauty to Midst of Crisis》这类代表性内容开始。"
+      ],
+      "actions": [
+        "整理值得长期订阅的国际基督教信源名单。",
+        "把本周全球教会动态做成一期专题摘要。"
+      ],
+      "sources": [
+        {
+          "name": "基督邮报中文",
+          "url": "https://chinese.christianpost.com/"
+        },
+        {
+          "name": "China Christian Daily",
+          "url": "https://chinachristiandaily.com/"
+        },
+        {
+          "name": "世界华人基督教联盟媒体",
+          "url": "https://www.wca.global/ministries/media"
+        },
+        {
+          "name": "Christianity Today",
+          "url": "https://www.christianitytoday.com/"
+        }
+      ],
+      "related_items": [
+        {
+          "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
+          "url": "https://www.mnnonline.org/2023/09/05/art-programs-in-lebanon-bring-beauty-to-midst-of-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=art-programs-in-lebanon-bring-beauty-to-midst-of-crisis",
+          "source": "Mission Network News",
+          "date": "09-05",
+          "summary": "这是一条来自 Mission Network News 的英文资讯，主题偏 宣教 / 全球差传。原文摘要提到：With Lebanon currently being impacted by war, a refu..."
+        },
+        {
+          "title": "Innocent As Doves",
+          "url": "https://www.mnnonline.org/2018/05/25/innocent-as-doves/?utm_source=rss&utm_medium=rss&utm_campaign=innocent-as-doves",
+          "source": "Mission Network News",
+          "date": "05-25",
+          "summary": "这是一条来自 Mission Network News 的英文资讯，主题偏 宣教 / 全球差传。原文摘要提到：The Scriptures Ephesians 6:10-18 (NIV) 10 Finally, b..."
+        },
+        {
+          "title": "The Revival That Wasn’t—and the One That May Be",
+          "url": "https://www.christianitytoday.com/2026/04/quiet-revival-that-wasnt-gen-z-church-america/",
+          "source": "Christianity Today",
+          "date": "04-27",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：The recent retraction of a British Bible Society rep..."
+        }
+      ]
+    },
+    {
+      "id": "church-tech",
+      "name": "教会与技术",
+      "subtitle": "观察 AI、协作工具与牧养边界",
+      "lead": "这条线最重要的不是工具本身，而是哪些流程能辅助，哪些角色绝不能被自动化偷换。",
+      "topics": [
+        "AI",
+        "technology",
+        "digital"
+      ],
+      "takeaways": [
+        "最近这条线共出现 6 条高相关内容，主要来自 Christianity Today, Religion News Service, 基督教论坛报。",
+        "本轮最明显的倾向是偏「先观察」，说明它更适合用 当前价值相对边缘，先留在观察区，不占用你的主注意力。 的节奏来跟。",
+        "如果只挑一条先看，就从《The Revival That Wasn’t—and the One That May Be》这类代表性内容开始。"
+      ],
+      "actions": [
+        "做一版‘教会使用 AI 红绿灯清单’。",
+        "只从低风险流程开始试点，比如转录、摘要、FAQ。"
+      ],
+      "sources": [
+        {
+          "name": "China Christian Daily",
+          "url": "https://chinachristiandaily.com/"
+        },
+        {
+          "name": "福音时报",
+          "url": "https://gospeltimes.faithinlove.cn/"
+        }
+      ],
+      "related_items": [
+        {
+          "title": "The Revival That Wasn’t—and the One That May Be",
+          "url": "https://www.christianitytoday.com/2026/04/quiet-revival-that-wasnt-gen-z-church-america/",
+          "source": "Christianity Today",
+          "date": "04-27",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：The recent retraction of a British Bible Society rep..."
+        },
+        {
+          "title": "Canterbury archbishop to visit pope, a milestone for churches split on women clergy",
+          "url": "https://religionnews.com/2026/04/24/canterbury-archbishop-to-visit-pope-a-milestone-for-churches-split-on-women-clergy/",
+          "source": "Religion News Service",
+          "date": "04-24",
+          "summary": "这是一条来自 Religion News Service 的英文资讯，主题偏 公共宗教 / 社会议题。原文摘要提到：(RNS) — The first woman archbishop of Canterbury..."
+        },
+        {
+          "title": "Worship attendance at churches up for the first time in decades, according to new report",
+          "url": "https://religionnews.com/2026/04/24/worship-attendance-at-churches-up-for-the-first-time-in-decades-according-to-new-report/",
+          "source": "Religion News Service",
+          "date": "04-24",
+          "summary": "这是一条来自 Religion News Service 的英文资讯，主题偏 公共宗教 / 社会议题。原文摘要提到：ATLANTA (RNS) — Researchers from the Hartford Ins..."
+        }
+      ]
+    },
+    {
+      "id": "china-church",
+      "name": "华语教会",
+      "subtitle": "跟踪华语语境里的教会内容、代际与公共表达",
+      "lead": "华语教会最明显的变化不是议题本身，而是表达方式、组织方式和沟通节奏都在变。",
+      "topics": [
+        "中国",
+        "华语",
+        "Taiwan"
+      ],
+      "takeaways": [
+        "最近这条线共出现 6 条高相关内容，主要来自 今日基督教（中文）, 《世代》 Kosmos China, 基督教论坛报。",
+        "本轮最明显的倾向是偏「先观察」，说明它更适合用 当前价值相对边缘，先留在观察区，不占用你的主注意力。 的节奏来跟。",
+        "如果只挑一条先看，就从《“教会是基督的身体”究竟是什么意思？》这类代表性内容开始。"
+      ],
+      "actions": [
+        "把主日讲章拆成文章、短视频、群公告三个版本。",
+        "给同工团队建立一周一次的内容协作节奏。"
+      ],
+      "sources": [
+        {
+          "name": "中国基督教网",
+          "url": "https://ccctspm.org/"
+        },
+        {
+          "name": "基督邮报中文",
+          "url": "https://chinese.christianpost.com/"
+        },
+        {
+          "name": "今日基督教（中文）",
+          "url": "https://zh.christianitytoday.com/"
+        },
+        {
+          "name": "China Christian Daily",
+          "url": "https://chinachristiandaily.com/"
+        }
+      ],
+      "related_items": [
+        {
+          "title": "“教会是基督的身体”究竟是什么意思？",
+          "url": "https://zh.christianitytoday.com/2026/04/the-body-of-christ-racial-division-reformed-calvin-zh-hans/",
+          "source": "今日基督教（中文）",
+          "date": "04-12",
+          "summary": "我以《哥林多前书》第十二章讲道的次数，多到我自己都数不清了。我在同工退修会上讲过，在志工感谢餐会上讲过，也曾在办公室里对着一位止不住哭泣、想知道自己是否重要的​​青少年讲过。每一次，我说的内容都大同小异：教会就像一..."
+        },
+        {
+          "title": "羞耻、恩典与灵命塑造：华人文化处境下的灵修神学研究/底波拉",
+          "url": "https://www.kosmoschina.org/%e7%be%9e%e8%80%bb%e3%80%81%e6%81%a9%e5%85%b8%e4%b8%8e%e7%81%b5%e5%91%bd%e5%a1%91%e9%80%a0%ef%bc%9a%e5%8d%8e%e4%ba%ba%e6%96%87%e5%8c%96%e5%a4%84%e5%a2%83%e4%b8%8b%e7%9a%84%e7%81%b5%e4%bf%ae%e7%a5%9e/",
+          "source": "《世代》 Kosmos China",
+          "date": "02-04",
+          "summary": "内容摘要：本文从华人文化语境出发，探讨羞耻文化对灵命塑造的深层影响 。研究指出，儒家修身传统与集体主义的面子文 […]"
+        },
+        {
+          "title": "《死海古卷》的新展览令人眼目一开",
+          "url": "https://zh.christianitytoday.com/2026/04/new-dead-sea-scrolls-exhibit-is-the-real-deal-zh-hans/",
+          "source": "今日基督教（中文）",
+          "date": "04-23",
+          "summary": "多数前往美国圣经博物馆 (Museum of the Bible) 参观 “死海古卷” 展览 (展至今年九月的) 的游客，其实看不懂这些或以希伯来文、古亚兰文和希腊文书写的古卷残片内容。即便如此，人们仍然络绎不绝地..."
+        }
+      ]
+    },
+    {
+      "id": "theology-public-life",
+      "name": "神学与公共生活",
+      "subtitle": "信仰如何进入教育、文化、家庭与社会讨论",
+      "lead": "这里真正值得盯的不是立场对撞，而是如何把神学语言翻译成公共语境中的成熟表达。",
+      "topics": [
+        "culture",
+        "public",
+        "教育"
+      ],
+      "takeaways": [
+        "最近这条线共出现 5 条高相关内容，主要来自 Evangelical Focus, Christianity Today, 基督教论坛报。",
+        "本轮最明显的倾向是偏「值得学」，说明它更适合用 更偏神学、形成性内容或长期认知建设，适合静下心细读。 的节奏来跟。",
+        "如果只挑一条先看，就从《Towards a culture of truth and justice in our evangelical churches》这类代表性内容开始。"
+      ],
+      "actions": [
+        "用本周热点做一篇‘信仰如何参与公共讨论’示范稿。",
+        "建立教会内部的议题回应模板。"
+      ],
+      "sources": [],
+      "related_items": [
+        {
+          "title": "Towards a culture of truth and justice in our evangelical churches",
+          "url": "https://evangelicalfocus.com/european-perspectives/34539/towards-a-culture-of-truth-and-justice-in-the-evangelical-churches",
+          "source": "Evangelical Focus",
+          "date": "04-27",
+          "summary": "这是一条来自 Evangelical Focus 的英文资讯，主题偏 欧洲 / 福音派。原文摘要提到：The way we deal with cases of abuse in our communities i..."
+        },
+        {
+          "title": "Australia’s Teen Social Media Ban Isn’t Perfect. But It’s Helping Analog Families.",
+          "url": "https://www.christianitytoday.com/2026/04/australia-teen-social-media-ban-analog-family/",
+          "source": "Christianity Today",
+          "date": "04-27",
+          "summary": "这是一条来自 Christianity Today 的英文资讯，主题偏 全球教会 / 深度报道。原文摘要提到：Dany Elachi recently drove to his local bike repair..."
+        },
+        {
+          "title": "從講台到管理、從教室到世界 多元路徑的神學教育轉型 回應當代教會需求",
+          "url": "https://ct.org.tw/html/news/3-3.php?cat=13&article=1403599",
+          "source": "基督教论坛报",
+          "date": "04-25",
+          "summary": "来自基督教论坛报新闻列表页，后续可再补正文抓取。"
+        }
+      ]
+    }
+  ]
+}

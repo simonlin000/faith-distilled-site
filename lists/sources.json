@@ -1,0 +1,850 @@
+{
+  "overview": {
+    "title": "真实可用的基督教资讯源与运行健康",
+    "description": "这一版不只展示来源清单，还把稳定层、实验层、手工层和本轮运行结果直接露出来，方便继续打磨内容质量。",
+    "total_sources": 25,
+    "chinese_sources": 10,
+    "global_sources": 15
+  },
+  "health_summary": {
+    "generated_at": "2026-04-27T11:31:07.984610+00:00",
+    "entries_collected": 89,
+    "successful_sources": 17,
+    "failed_sources": 1,
+    "timed_out_sources": 0,
+    "counts_by_tier": {
+      "manual": 7,
+      "stable": 18
+    }
+  },
+  "failure_spotlight": [
+    {
+      "name": "WORLD",
+      "status": "抓取失败",
+      "detail": "ReadTimeout(ReadTimeoutError(\"HTTPSConnectionPool(host='wng.org', port=443): Read timed out. (read timeout=20)\"))"
+    }
+  ],
+  "featured_sources": [
+    {
+      "rank": "01",
+      "name": "CNE.news",
+      "url": "https://cne.news/",
+      "summary": "欧洲 / 新闻 / 教会。当前通过列表页解析接入。",
+      "tags": [
+        "稳定",
+        "本轮成功",
+        "欧洲",
+        "新闻"
+      ],
+      "kpis": [
+        {
+          "label": "本轮条目",
+          "value": 8
+        },
+        {
+          "label": "抓取方式",
+          "value": "列表页"
+        },
+        {
+          "label": "语言",
+          "value": "国际"
+        }
+      ],
+      "reasons": [
+        "当前分层：稳定",
+        "本轮状态：本轮成功",
+        "欧洲 / 新闻 / 教会。当前通过列表页解析接入。"
+      ]
+    },
+    {
+      "rank": "02",
+      "name": "Evangelical Focus",
+      "url": "https://evangelicalfocus.com/",
+      "summary": "欧洲 / 福音派 / 国际。当前通过列表页解析接入。",
+      "tags": [
+        "稳定",
+        "本轮成功",
+        "欧洲",
+        "福音派"
+      ],
+      "kpis": [
+        {
+          "label": "本轮条目",
+          "value": 8
+        },
+        {
+          "label": "抓取方式",
+          "value": "列表页"
+        },
+        {
+          "label": "语言",
+          "value": "国际"
+        }
+      ],
+      "reasons": [
+        "当前分层：稳定",
+        "本轮状态：本轮成功",
+        "欧洲 / 福音派 / 国际。当前通过列表页解析接入。"
+      ]
+    },
+    {
+      "rank": "03",
+      "name": "Premier Christian News",
+      "url": "https://premierchristian.news/",
+      "summary": "英国 / 公共议题 / 新闻。当前通过列表页解析接入。",
+      "tags": [
+        "稳定",
+        "本轮成功",
+        "英国",
+        "公共议题"
+      ],
+      "kpis": [
+        {
+          "label": "本轮条目",
+          "value": 8
+        },
+        {
+          "label": "抓取方式",
+          "value": "列表页"
+        },
+        {
+          "label": "语言",
+          "value": "国际"
+        }
+      ],
+      "reasons": [
+        "当前分层：稳定",
+        "本轮状态：本轮成功",
+        "英国 / 公共议题 / 新闻。当前通过列表页解析接入。"
+      ]
+    },
+    {
+      "rank": "04",
+      "name": "基督教论坛报",
+      "url": "https://ct.org.tw/",
+      "summary": "台湾 / 华语教会 / 内容生产。当前通过列表页解析接入。",
+      "tags": [
+        "稳定",
+        "本轮成功",
+        "台湾",
+        "华语教会"
+      ],
+      "kpis": [
+        {
+          "label": "本轮条目",
+          "value": 8
+        },
+        {
+          "label": "抓取方式",
+          "value": "列表页"
+        },
+        {
+          "label": "语言",
+          "value": "中文"
+        }
+      ],
+      "reasons": [
+        "当前分层：稳定",
+        "本轮状态：本轮成功",
+        "台湾 / 华语教会 / 内容生产。当前通过列表页解析接入。"
+      ]
+    },
+    {
+      "rank": "05",
+      "name": "时代论坛",
+      "url": "https://christiantimes.org.hk/",
+      "summary": "香港 / 公共讨论 / 时评。当前通过列表页解析接入。",
+      "tags": [
+        "稳定",
+        "本轮成功",
+        "香港",
+        "公共讨论"
+      ],
+      "kpis": [
+        {
+          "label": "本轮条目",
+          "value": 8
+        },
+        {
+          "label": "抓取方式",
+          "value": "列表页"
+        },
+        {
+          "label": "语言",
+          "value": "中文"
+        }
+      ],
+      "reasons": [
+        "当前分层：稳定",
+        "本轮状态：本轮成功",
+        "香港 / 公共讨论 / 时评。当前通过列表页解析接入。"
+      ]
+    },
+    {
+      "rank": "06",
+      "name": "Aleteia",
+      "url": "https://aleteia.org/",
+      "summary": "天主教 / 文化 / 灵修。当前通过固定 feed 接入。",
+      "tags": [
+        "稳定",
+        "本轮成功",
+        "天主教",
+        "文化"
+      ],
+      "kpis": [
+        {
+          "label": "本轮条目",
+          "value": 5
+        },
+        {
+          "label": "抓取方式",
+          "value": "固定 Feed"
+        },
+        {
+          "label": "语言",
+          "value": "国际"
+        }
+      ],
+      "reasons": [
+        "当前分层：稳定",
+        "本轮状态：本轮成功",
+        "天主教 / 文化 / 灵修。当前通过固定 feed 接入。"
+      ]
+    }
+  ],
+  "source_groups": [
+    {
+      "id": "stable",
+      "label": "稳定",
+      "description": "已经验证可稳定抓取，纳入主构建批次。",
+      "items": [
+        {
+          "id": "christianity_today_zh",
+          "name": "今日基督教（中文）",
+          "url": "https://zh.christianitytoday.com/",
+          "language": "zh",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "深度内容 / 中文 / 神学。当前通过固定 feed 接入。",
+          "tags": [
+            "深度内容",
+            "中文",
+            "神学"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "ct_tw",
+          "name": "基督教论坛报",
+          "url": "https://ct.org.tw/",
+          "language": "zh",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 8,
+          "note": "台湾 / 华语教会 / 内容生产。当前通过列表页解析接入。",
+          "tags": [
+            "台湾",
+            "华语教会",
+            "内容生产"
+          ],
+          "ingress": "列表页",
+          "harvest_enabled": true
+        },
+        {
+          "id": "christian_times_hk",
+          "name": "时代论坛",
+          "url": "https://christiantimes.org.hk/",
+          "language": "zh",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 8,
+          "note": "香港 / 公共讨论 / 时评。当前通过列表页解析接入。",
+          "tags": [
+            "香港",
+            "公共讨论",
+            "时评"
+          ],
+          "ingress": "列表页",
+          "harvest_enabled": true
+        },
+        {
+          "id": "kosmos_china",
+          "name": "《世代》 Kosmos China",
+          "url": "https://www.kosmoschina.org/",
+          "language": "zh",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "公共神学 / 城市文化 / 代际。当前通过固定 feed 接入。",
+          "tags": [
+            "公共神学",
+            "城市文化",
+            "代际"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "christianity_today",
+          "name": "Christianity Today",
+          "url": "https://www.christianitytoday.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "全球教会 / 深度报道 / 趋势观察。当前通过固定 feed 接入。",
+          "tags": [
+            "全球教会",
+            "深度报道",
+            "趋势观察"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "christian_today",
+          "name": "Christian Today",
+          "url": "https://www.christiantoday.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "国际新闻 / 快讯 / 福音派。当前通过固定 feed 接入。",
+          "tags": [
+            "国际新闻",
+            "快讯",
+            "福音派"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "christian_post",
+          "name": "The Christian Post",
+          "url": "https://www.christianpost.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "热点 / 国际 / 新闻。当前通过固定 feed 接入。",
+          "tags": [
+            "热点",
+            "国际",
+            "新闻"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "churchleaders",
+          "name": "ChurchLeaders",
+          "url": "https://churchleaders.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "牧会实践 / 内容 / 领导力。当前通过固定 feed 接入。",
+          "tags": [
+            "牧会实践",
+            "内容",
+            "领导力"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "premier_news",
+          "name": "Premier Christian News",
+          "url": "https://premierchristian.news/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 8,
+          "note": "英国 / 公共议题 / 新闻。当前通过列表页解析接入。",
+          "tags": [
+            "英国",
+            "公共议题",
+            "新闻"
+          ],
+          "ingress": "列表页",
+          "harvest_enabled": true
+        },
+        {
+          "id": "baptist_press",
+          "name": "Baptist Press",
+          "url": "https://www.baptistpress.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "宗派动态 / 美国 / 浸信会。当前通过列表页解析接入。",
+          "tags": [
+            "宗派动态",
+            "美国",
+            "浸信会"
+          ],
+          "ingress": "列表页",
+          "harvest_enabled": true
+        },
+        {
+          "id": "mission_network_news",
+          "name": "Mission Network News",
+          "url": "https://www.missionnetworknews.org/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "宣教 / 全球差传 / 机构动态。当前通过固定 feed 接入。",
+          "tags": [
+            "宣教",
+            "全球差传",
+            "机构动态"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "wng",
+          "name": "WORLD",
+          "url": "https://wng.org/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "feed_failed",
+          "status_label": "抓取失败",
+          "items": 0,
+          "note": "公共议题 / 评论 / 新闻",
+          "tags": [
+            "公共议题",
+            "评论",
+            "新闻"
+          ],
+          "ingress": "手工补录",
+          "harvest_enabled": true,
+          "detail": "ReadTimeout(ReadTimeoutError(\"HTTPSConnectionPool(host='wng.org', port=443): Read timed out. (read timeout=20)\"))"
+        },
+        {
+          "id": "religion_news_service",
+          "name": "Religion News Service",
+          "url": "https://religionnews.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "公共宗教 / 社会议题 / 新闻机构。当前通过固定 feed 接入。",
+          "tags": [
+            "公共宗教",
+            "社会议题",
+            "新闻机构"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "evangelical_focus",
+          "name": "Evangelical Focus",
+          "url": "https://evangelicalfocus.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 8,
+          "note": "欧洲 / 福音派 / 国际。当前通过列表页解析接入。",
+          "tags": [
+            "欧洲",
+            "福音派",
+            "国际"
+          ],
+          "ingress": "列表页",
+          "harvest_enabled": true
+        },
+        {
+          "id": "cne_news",
+          "name": "CNE.news",
+          "url": "https://cne.news/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 8,
+          "note": "欧洲 / 新闻 / 教会。当前通过列表页解析接入。",
+          "tags": [
+            "欧洲",
+            "新闻",
+            "教会"
+          ],
+          "ingress": "列表页",
+          "harvest_enabled": true
+        },
+        {
+          "id": "ecumenical_news",
+          "name": "Ecumenical News",
+          "url": "https://www.ecumenicalnews.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "普世教会 / 跨宗派 / 国际。当前通过固定 feed 接入。",
+          "tags": [
+            "普世教会",
+            "跨宗派",
+            "国际"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "aleteia",
+          "name": "Aleteia",
+          "url": "https://aleteia.org/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "天主教 / 文化 / 灵修。当前通过固定 feed 接入。",
+          "tags": [
+            "天主教",
+            "文化",
+            "灵修"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        },
+        {
+          "id": "relevant",
+          "name": "RELEVANT",
+          "url": "https://relevantmagazine.com/",
+          "language": "en",
+          "tier": "stable",
+          "tier_label": "稳定",
+          "status": "ok",
+          "status_label": "本轮成功",
+          "items": 5,
+          "note": "年轻基督徒 / 文化 / 生活方式。当前通过固定 feed 接入。",
+          "tags": [
+            "年轻基督徒",
+            "文化",
+            "生活方式"
+          ],
+          "ingress": "固定 Feed",
+          "harvest_enabled": true
+        }
+      ]
+    },
+    {
+      "id": "experimental",
+      "label": "实验",
+      "description": "可抓但不稳定，保留在目录里，不让它拖垮主构建。",
+      "items": []
+    },
+    {
+      "id": "manual",
+      "label": "手工",
+      "description": "暂时没有稳定自动入口，先保留来源元数据与占位说明。",
+      "items": [
+        {
+          "id": "ccctspm",
+          "name": "中国基督教网",
+          "url": "https://ccctspm.org/",
+          "language": "zh",
+          "tier": "manual",
+          "tier_label": "手工",
+          "status": "skipped",
+          "status_label": "未纳入本轮",
+          "items": 0,
+          "note": "中国教会 / 官方发布 / 制度动态。当前先保留来源元数据，等待后续补入口。",
+          "tags": [
+            "中国教会",
+            "官方发布",
+            "制度动态"
+          ],
+          "ingress": "手工补录",
+          "harvest_enabled": false
+        },
+        {
+          "id": "christian_post_zh",
+          "name": "基督邮报中文",
+          "url": "https://chinese.christianpost.com/",
+          "language": "zh",
+          "tier": "manual",
+          "tier_label": "手工",
+          "status": "skipped",
+          "status_label": "未纳入本轮",
+          "items": 0,
+          "note": "国际热点 / 中文 / 资讯。当前先保留来源元数据，等待后续补入口。",
+          "tags": [
+            "国际热点",
+            "中文",
+            "资讯"
+          ],
+          "ingress": "手工补录",
+          "harvest_enabled": false
+        },
+        {
+          "id": "china_christian_daily",
+          "name": "China Christian Daily",
+          "url": "https://chinachristiandaily.com/",
+          "language": "en",
+          "tier": "manual",
+          "tier_label": "手工",
+          "status": "skipped",
+          "status_label": "未纳入本轮",
+          "items": 0,
+          "note": "中国教会 / 国际视角 / 英语。当前先保留来源元数据，等待后续补入口。",
+          "tags": [
+            "中国教会",
+            "国际视角",
+            "英语"
+          ],
+          "ingress": "手工补录",
+          "harvest_enabled": false
+        },
+        {
+          "id": "gospel_times",
+          "name": "福音时报",
+          "url": "https://gospeltimes.faithinlove.cn/",
+          "language": "zh",
+          "tier": "manual",
+          "tier_label": "手工",
+          "status": "skipped",
+          "status_label": "未纳入本轮",
+          "items": 0,
+          "note": "华语教会 / 人物 / 机构动态。当前先保留来源元数据，等待后续补入口。",
+          "tags": [
+            "华语教会",
+            "人物",
+            "机构动态"
+          ],
+          "ingress": "手工补录",
+          "harvest_enabled": false
+        },
+        {
+          "id": "wca_media",
+          "name": "世界华人基督教联盟媒体",
+          "url": "https://www.wca.global/ministries/media",
+          "language": "zh",
+          "tier": "manual",
+          "tier_label": "手工",
+          "status": "skipped",
+          "status_label": "未纳入本轮",
+          "items": 0,
+          "note": "华人教会 / 联盟 / 机构。当前先保留来源元数据，等待后续补入口。",
+          "tags": [
+            "华人教会",
+            "联盟",
+            "机构"
+          ],
+          "ingress": "手工补录",
+          "harvest_enabled": false
+        },
+        {
+          "id": "reframe_zh",
+          "name": "ReFrame Ministries Chinese",
+          "url": "https://reframeministries.org/ministries/chinese",
+          "language": "zh",
+          "tier": "manual",
+          "tier_label": "手工",
+          "status": "skipped",
+          "status_label": "未纳入本轮",
+          "items": 0,
+          "note": "装备 / 信仰生活 / 中文。当前先保留来源元数据，等待后续补入口。",
+          "tags": [
+            "装备",
+            "信仰生活",
+            "中文"
+          ],
+          "ingress": "手工补录",
+          "harvest_enabled": false
+        },
+        {
+          "id": "churchchina",
+          "name": "《教会》 ChurchChina",
+          "url": "https://churchchina.org/",
+          "language": "zh",
+          "tier": "manual",
+          "tier_label": "手工",
+          "status": "skipped",
+          "status_label": "未纳入本轮",
+          "items": 0,
+          "note": "神学 / 教会反思 / 中文。当前先保留来源元数据，等待后续补入口。",
+          "tags": [
+            "神学",
+            "教会反思",
+            "中文"
+          ],
+          "ingress": "手工补录",
+          "harvest_enabled": false
+        }
+      ]
+    }
+  ],
+  "source_registry": [
+    {
+      "label": "中文与华语来源",
+      "items": [
+        {
+          "name": "中国基督教网",
+          "url": "https://ccctspm.org/",
+          "note": "未纳入本轮 · 中国教会 / 官方发布 / 制度动态。当前先保留来源元数据，等待后续补入口。"
+        },
+        {
+          "name": "基督邮报中文",
+          "url": "https://chinese.christianpost.com/",
+          "note": "未纳入本轮 · 国际热点 / 中文 / 资讯。当前先保留来源元数据，等待后续补入口。"
+        },
+        {
+          "name": "今日基督教（中文）",
+          "url": "https://zh.christianitytoday.com/",
+          "note": "本轮成功 · 深度内容 / 中文 / 神学。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "福音时报",
+          "url": "https://gospeltimes.faithinlove.cn/",
+          "note": "未纳入本轮 · 华语教会 / 人物 / 机构动态。当前先保留来源元数据，等待后续补入口。"
+        },
+        {
+          "name": "基督教论坛报",
+          "url": "https://ct.org.tw/",
+          "note": "本轮成功 · 台湾 / 华语教会 / 内容生产。当前通过列表页解析接入。"
+        },
+        {
+          "name": "时代论坛",
+          "url": "https://christiantimes.org.hk/",
+          "note": "本轮成功 · 香港 / 公共讨论 / 时评。当前通过列表页解析接入。"
+        },
+        {
+          "name": "世界华人基督教联盟媒体",
+          "url": "https://www.wca.global/ministries/media",
+          "note": "未纳入本轮 · 华人教会 / 联盟 / 机构。当前先保留来源元数据，等待后续补入口。"
+        },
+        {
+          "name": "ReFrame Ministries Chinese",
+          "url": "https://reframeministries.org/ministries/chinese",
+          "note": "未纳入本轮 · 装备 / 信仰生活 / 中文。当前先保留来源元数据，等待后续补入口。"
+        },
+        {
+          "name": "《教会》 ChurchChina",
+          "url": "https://churchchina.org/",
+          "note": "未纳入本轮 · 神学 / 教会反思 / 中文。当前先保留来源元数据，等待后续补入口。"
+        },
+        {
+          "name": "《世代》 Kosmos China",
+          "url": "https://www.kosmoschina.org/",
+          "note": "本轮成功 · 公共神学 / 城市文化 / 代际。当前通过固定 feed 接入。"
+        }
+      ]
+    },
+    {
+      "label": "国际来源",
+      "items": [
+        {
+          "name": "China Christian Daily",
+          "url": "https://chinachristiandaily.com/",
+          "note": "未纳入本轮 · 中国教会 / 国际视角 / 英语。当前先保留来源元数据，等待后续补入口。"
+        },
+        {
+          "name": "Christianity Today",
+          "url": "https://www.christianitytoday.com/",
+          "note": "本轮成功 · 全球教会 / 深度报道 / 趋势观察。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "Christian Today",
+          "url": "https://www.christiantoday.com/",
+          "note": "本轮成功 · 国际新闻 / 快讯 / 福音派。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "The Christian Post",
+          "url": "https://www.christianpost.com/",
+          "note": "本轮成功 · 热点 / 国际 / 新闻。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "ChurchLeaders",
+          "url": "https://churchleaders.com/",
+          "note": "本轮成功 · 牧会实践 / 内容 / 领导力。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "Premier Christian News",
+          "url": "https://premierchristian.news/",
+          "note": "本轮成功 · 英国 / 公共议题 / 新闻。当前通过列表页解析接入。"
+        },
+        {
+          "name": "Baptist Press",
+          "url": "https://www.baptistpress.com/",
+          "note": "本轮成功 · 宗派动态 / 美国 / 浸信会。当前通过列表页解析接入。"
+        },
+        {
+          "name": "Mission Network News",
+          "url": "https://www.missionnetworknews.org/",
+          "note": "本轮成功 · 宣教 / 全球差传 / 机构动态。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "WORLD",
+          "url": "https://wng.org/",
+          "note": "抓取失败 · 公共议题 / 评论 / 新闻"
+        },
+        {
+          "name": "Religion News Service",
+          "url": "https://religionnews.com/",
+          "note": "本轮成功 · 公共宗教 / 社会议题 / 新闻机构。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "Evangelical Focus",
+          "url": "https://evangelicalfocus.com/",
+          "note": "本轮成功 · 欧洲 / 福音派 / 国际。当前通过列表页解析接入。"
+        },
+        {
+          "name": "CNE.news",
+          "url": "https://cne.news/",
+          "note": "本轮成功 · 欧洲 / 新闻 / 教会。当前通过列表页解析接入。"
+        },
+        {
+          "name": "Ecumenical News",
+          "url": "https://www.ecumenicalnews.com/",
+          "note": "本轮成功 · 普世教会 / 跨宗派 / 国际。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "Aleteia",
+          "url": "https://aleteia.org/",
+          "note": "本轮成功 · 天主教 / 文化 / 灵修。当前通过固定 feed 接入。"
+        },
+        {
+          "name": "RELEVANT",
+          "url": "https://relevantmagazine.com/",
+          "note": "本轮成功 · 年轻基督徒 / 文化 / 生活方式。当前通过固定 feed 接入。"
+        }
+      ]
+    }
+  ]
+}
